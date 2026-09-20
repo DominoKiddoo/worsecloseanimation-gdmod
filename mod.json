@@ -8,7 +8,7 @@
 	},
 	"id": "dominodev.worse-close-animation",
 	"name": "\"Better\" Close Animation",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "DominoDev",
 	"description": "kaboom? yes rico, kaboom.",
 	"dependencies": {
@@ -33,6 +33,6 @@
 			"one-of": ["Random", "Bomb", "Grenade"]
 		}
 	},
-
+	"tags": ["joke"],
 	"links": {"source": "https://github.com/DominoKiddoo/worsecloseanimation-gdmod"}
 }
